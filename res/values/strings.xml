@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Find The Partner</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Find The Partner</string>
+    <string name="explain">Choose the correct scienst with his/her creation \n
+        James Gosling - Java \n
+        Linus Torvalds - Linux \n
+        John_Carmack - Quake \n </string>
+    <string name="content_exit">Exit button</string>
+        
+    
+    
+    
+</resources>
